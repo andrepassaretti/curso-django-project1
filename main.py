@@ -1,1 +1,1 @@
-print('olá mundo, hello ')
+print('olá mundo, h ')
